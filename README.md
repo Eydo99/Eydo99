@@ -23,7 +23,7 @@ I build systems that sit at the intersection of AI, algorithms, and low-level en
 | [Numerical Methods Solver](https://github.com/Eydo99/Numerical-Project) | Python · Flask · Angular | Full-stack solver for 10+ numerical methods with step-by-step output |
 | [Control Systems SFG](https://github.com/Joo-Ashraf1/Control-Systems-SFG) | Python · Flask · Angular | Mason's gain formula solver for signal flow graphs |
 | [OS Labs](https://github.com/Eydo99/OS_-Labs) | C · Python | Shell, POSIX threads, IPC, CPU scheduler, garbage collector simulation |
-| [DSA Benchmarker](https://github.com/Eydo99/RB-trees-and-BSTs-becnhmarking) | Java · JavaFX | RB-Trees vs BSTs, MST & SSSP algorithms, sorting visualizations |
+| [DSA Benchmarker]([https://git](https://github.com/Eydo99/DSA-Projects.git)) | Java · JavaFX | RB-Trees vs BSTs, MST & SSSP algorithms, sorting visualizations |
 
 ---
 
