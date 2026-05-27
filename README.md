@@ -38,8 +38,6 @@ I build systems that sit at the intersection of AI, algorithms, and low-level en
 ---
 
 ## Achievements
-
-- 🥇 **1st place** — Computer Engineering department, Alexandria University (CGPA 3.98 / 4.0)
 - 🥉 **3rd place** — MATE ROV International Competition (designed & fabricated power distribution + main control boards)
 
 ---
