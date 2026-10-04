@@ -18,11 +18,15 @@
 
 ## 👋 About me
 
-I'm a **Computer Engineering student at Alexandria University** (B.Sc., 2023 – 2028, **CGPA 3.97 / 4.0**) who likes building things that actually run: ML pipelines that score real matches, simulators with one thread per machine, and low-level systems code in C.
+I'm a Computer Engineering student at Alexandria University who likes building things that have to actually work: ML pipelines that score real matches, simulators with one thread per machine, and shells and schedulers written in C.
 
-I'm looking for **AI/ML and software engineering internships** where I can ship real features, learn from experienced engineers, and keep going deeper into both machine learning and systems.
+I move between both ends of the stack, from training XGBoost models on 1.2M events to hunting race conditions, and the most fun problems are where the two meet.
 
-> 🏅 **3rd place, MATE ROV International Competition** — I designed and fabricated the ROV's power distribution board and the main control board of the team's underwater float, as part of the Alexandria University Robotics Club (AUR) hardware subteam.
+- 🎓 **B.Sc. Computer Engineering** · Alexandria University · CGPA 3.97 / 4.0 · 2023 – 2028
+- 🤖 **Built and deployed** an xG model on 1.2M football events, with a [live demo](https://ai-football-match-analyst.streamlit.app/)
+- ⚙️ **Wrote from scratch:** a Unix shell, a CPU scheduler, and a Redis-based distributed lock
+- 🥉 **3rd place, MATE ROV International:** designed the ROV's power distribution board and the main control board of the team's underwater float (Alexandria University Robotics Club)
+- 📫 **Open to internships** in AI/ML and software engineering
 
 ---
 
@@ -215,7 +219,7 @@ Red-Black Tree vs BST, six sorting algorithms (with a JavaFX visualizer), and Pr
 
 ## 🤝 Let's connect
 
-I'm always happy to talk about ML pipelines, concurrency, or robotics, and I'm open to **internships in AI/ML and software engineering**.
+Got an interesting problem in ML, concurrency, or robotics? Let's talk. I'm open to **internships in AI/ML and software engineering**.
 
 <div align="center">
 
