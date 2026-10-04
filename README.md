@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eyad%20Amr%20Asaad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20AI%20%26%20Software%20Engineering&descAlignY=58&descSize=16" alt="Eyad Amr Asaad banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eyad%20Amr%20Asaad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20AI%20%C2%B7%20Software%20Engineering&descAlignY=58&descSize=16" alt="Eyad Amr Asaad banner" />
 
 <a href="https://github.com/Eydo99">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=I+train+models+that+predict+football+matches;I+build+real-time+multi-threaded+systems;I+write+shells%2C+schedulers+and+distributed+locks;Computer+Engineering+%40+Alexandria+University" alt="Typing animation" />
@@ -18,11 +18,11 @@
 
 ## 👋 About me
 
-I'm a Computer Engineering student at Alexandria University who likes building things that have to actually work: ML pipelines that score real matches, simulators with one thread per machine, and shells and schedulers written in C.
+I'm a Computer Engineering student at Alexandria University who likes building things that have to actually work: ML pipelines that serves different fields, simulators, and shells and schedulers written in C.
 
-I move between both ends of the stack, from training XGBoost models on 1.2M events to hunting race conditions, and the most fun problems are where the two meet.
+I move between both ends of the stack, from training XGBoost models to hunting race conditions, and the most fun problems are where the two meet.
 
-- 🎓 **B.Sc. Computer Engineering** · Alexandria University · CGPA 3.97 / 4.0 · 2023 – 2028
+- 🎓 **B.Sc. Computer Engineering** · Alexandria University · 2023 – 2028
 - 🤖 **Built and deployed** an xG model on 1.2M football events, with a [live demo](https://ai-football-match-analyst.streamlit.app/)
 - ⚙️ **Wrote from scratch:** a Unix shell, a CPU scheduler, and a Redis-based distributed lock
 - 🥉 **3rd place, MATE ROV International:** designed the ROV's power distribution board and the main control board of the team's underwater float (Alexandria University Robotics Club)
